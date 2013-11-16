@@ -1,0 +1,20 @@
+{
+  "name": "simple-proxy",
+  "version": "0.1.0",
+  "description": "It is a simple http proxy with custom forwardings for specific urls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "http-proxy"
+  ],
+  "author": "Roy Riojas",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~0.10.3",
+    "request": "~2.27.0",
+    "express": "~3.4.4"
+  }
+}

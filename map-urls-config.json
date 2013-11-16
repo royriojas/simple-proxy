@@ -1,0 +1,6 @@
+{
+  "map" : [{
+    "from" : "http://reader-loc.dev.kno.com:8080/engage/",
+    "to" : "http://engageapi/engage/"
+  }]
+}
