@@ -13,7 +13,7 @@
   "author": "Roy Riojas",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "~0.10.3",
+    "http-proxy": "~1.18.1",
     "request": "~2.81.0",
     "express": "~3.4.4"
   }
